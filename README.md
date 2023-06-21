@@ -16,10 +16,10 @@ localhost:80
 
 ## Usage pictures
 Builded image in Docker Desktop Hub
-![image](https://github.com/bimadam/docker/blob/main/runningContainer.png?raw=true)
+![image](https://github.com/bimadam/docker/blob/main/buildedImage.png?raw=true)
 
 Running container in Docker Desktop Hub
-![container](https://github.com/bimadam/docker/blob/main/buildedImage.png?raw=true)
+![container](https://github.com/bimadam/docker/blob/main/runningContainer.png?raw=true)
 
 Running website
 ![website](https://github.com/bimadam/docker/blob/main/website.png?raw=true)
